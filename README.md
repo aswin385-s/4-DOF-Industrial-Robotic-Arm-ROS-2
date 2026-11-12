@@ -1,6 +1,6 @@
 # 4-DOF Industrial Robotic Arm – ROS 2
 
-![3D MODEL](dimages/Interface.png)
+![3D MODEL](images/4DoF_ARM.png)
 
 A 4-degree-of-freedom (4-DOF) robotic arm designed in **Fusion 360** and integrated with **ROS 2 Jazzy** using URDF/Xacro. This project demonstrates robot description modeling, link and joint configuration, 3D mesh integration, joint state visualization, and TF frame verification in RViz2.
 
