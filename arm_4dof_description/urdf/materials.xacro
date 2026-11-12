@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<robot name="arm_4dof" xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+  <!--links-yellow -->
+  <material name="Arm_Yellow">
+    <color rgba="0.988235 0.839216 0.0 1.0"/>
+  </material>
+
+  <!--links-blue -->
+  <material name="Arm_Blue">
+    <color rgba="0.0 0.066667 1.0 1.0"/>
+  </material>
+
+  <!-- MG996R-servos -->
+  <material name="Opaque{76,76,76}">
+    <color rgba="0.20 0.20 0.20 1.0"/>
+  </material>
+
+  <!-- SG90-servos -->
+  <material name="Opaque{202,209,238}">
+    <color rgba="0.10 0.35 0.85 1.0"/>
+  </material>
+
+  <!-- Other -->
+  <material name="silver_default">
+    <color rgba="0.70 0.70 0.70 1.0"/>
+  </material>
+
+  <material name="Steel_Satin">
+    <color rgba="0.63 0.63 0.63 1.0"/>
+  </material>
+
+</robot>
+
